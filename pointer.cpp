@@ -1,3 +1,5 @@
+//指针参数按引用传递示例，结果是0，85
+
 #include  <iostream>
 #include  <cstdlib>
 using namespace std;
